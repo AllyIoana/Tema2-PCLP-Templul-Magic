@@ -1,5 +1,5 @@
 # Tema2-Templul-Magic
-A doua temă de la PCLP (Programarea Calculatoarelor și Limbaje de Programare), Anul I, Semestrul I
+A doua temă de la PCLP (Programarea Calculatoarelor și Limbaje de Programare), Anul I, Semestrul I, punctaj maxim
 
 # Task 1 - Cuvinte magice
 Cum intri în templul magic te trezești într-o cameră uriașă sub forma unei matrici de dimensiune N * M. O voce îți spune că te afli în templul lui magic și că pentru a trece la camera următoare trebuie să te miști prin cameră (prin matrice) după un traseu bine stabilit. Pentru a face lucrurile mai interesante, vocea îți spune că traseul necesar trebuie decodificat de către tine apoi îți spune un cod magic.
