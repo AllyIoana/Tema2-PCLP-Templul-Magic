@@ -1,0 +1,29 @@
+Task 1
+In codul ASCII, cifrele sunt consecutive si incep de la 0 care are codul ASCII 48.
+Variabilele x si y au fost notate astfel, deoarece am urmarit o axa generala xOy.
+Traseul/drumul parcurs se afla in matricea **drum.
+
+!!!
+IMPORTANT
+Task 2
+
+    La acest task am intampinat o PROBLEMA MAJORA: desi am verificat toate testele de mana si erau identice cu cele din 
+folderul ref, dupa ce am corectat toate erorile de pe vmchecker si am incercat mai multe moduri de afisare a solutiei, tot nu am
+obtinut punctele necesare pentru task. O EROARE MAJORA: Pentru ca vmchecker sa inregistreze raspunsuri ca fiind corecte, a trebuit sa
+citesc de la tastatura o valoare in plus (int), fara de care esuau toate testele.
+    Am tinut cont de limita de 1000 de caractere, multimile circulare, am pastrat numerele pentru partea finala a task-ului sub forma
+de siruri de caractere, nu am avut erori de compilare. Rezolvarea este bazata pe codul ascii si pe faptul ca folosim 10 cifre si 26 de
+litere (majuscule si minuscule). Pentru Vigenere si Addition am folosit din codul functiei pentru Caesar.
+    Pentru Vigenere am pastrat ciclicitatea cheii date sub forma unui sir scurt de majuscule, prin calcularea unui rest la impartirea
+cu numarul total de litere ce formeaza cheia.
+    Pentru Addition am consierat cel de-al doilea numar mai mare decat primul si, in caz contrar, le-am interschimbat. Pentru
+calcularea sumei dintre cele 2 numere, am imitat calculul "pe hartie".
+!!!
+
+Task 3
+Dupa citirea si separarea tuturor cuvintelor, ele sunt impartite in grupuri pe componente:
+    *contor: cate 2-grame de un anumit tip au fost gasite
+    *grup1: primul cuvant
+    *grup2: al doilea cuvant
+
+
